@@ -176,7 +176,7 @@
 }
 .image-container {
     position: relative;
-    background-image: url('/Task\ 3/images/tasty.png') ; 
+    background-image: url('images/tasty.png') ; 
     background-size: cover;
     background-position: center;
     height: 60vh;
@@ -284,4 +284,5 @@ button {
 }
 footer{
     background-color: #ccc;
+
 }
